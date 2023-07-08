@@ -34,6 +34,8 @@ After opening Chrome, paste the following two lines of code from the script into
 
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
 
+That's it! The URL will open in the previously opened localhost Chrome and 100+ auto likes will be done automatically.
+
 👉Note:-
 
 👉If you have the latest version of Selenium, the code may not run
