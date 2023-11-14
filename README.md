@@ -50,7 +50,12 @@ then new terminal in that folder and enter l.py (letter l not one)
 
 After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the YouTube video URL in Chrome, automatically like it with multiple accounts, and switch between accounts to hit the likes.
 
-"You must login with your 10+ accounts, and each account must have 10+ brand accounts to hit auto-likes. In the 17th line of the script, replace the URL with the YouTube video URL you want to like.
+# "You must login with your 10+ accounts,
+
+# after login with 10 accs add these extension
+https://shorturl.at/mtAER
+
+and each account must have 10+ brand accounts to hit auto-likes. In the 17th line of the script, replace the URL with the YouTube video URL you want to like.
 
 Finally, in the command prompt, enter "pip install Random" and hit enter to install the necessary library.
 
