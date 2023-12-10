@@ -16,11 +16,11 @@ time.sleep(3)
 
 driver.get("https://youtube.com/shorts/n5C5iR_uZXM?feature=share") #replace with your required youtube shorts link
 
-time.sleep(4)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -35,11 +35,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown[1]/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[1]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -54,11 +54,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown[1]/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[1]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -73,11 +73,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown[1]/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[1]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -92,11 +92,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown[1]/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[1]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -111,11 +111,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown[1]/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[1]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -130,11 +130,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown[1]/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[1]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -149,11 +149,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown[1]/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[1]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -168,11 +168,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown[1]/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[1]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #2 account click 
 
@@ -189,11 +189,11 @@ time.sleep(3)
 #click on nextt
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[1]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -208,11 +208,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -227,11 +227,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -246,11 +246,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -265,11 +265,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -284,11 +284,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -303,11 +303,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -322,11 +322,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -343,11 +343,11 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 #3 account click 
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -362,11 +362,11 @@ time.sleep(3)
 #click on nextt 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -381,11 +381,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -400,11 +400,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -419,11 +419,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -438,11 +438,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -457,11 +457,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -476,11 +476,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -495,11 +495,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -514,11 +514,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[2]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -535,11 +535,11 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 #4th account click 
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -554,11 +554,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[3]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -573,11 +573,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[3]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -592,11 +592,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[3]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -611,11 +611,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[3]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -630,11 +630,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[3]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -649,11 +649,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[3]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -668,11 +668,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[3]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -687,11 +687,11 @@ time.sleep(3)
 #click on next 
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[3]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -709,11 +709,11 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 #5th account click 
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -728,11 +728,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[4]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -747,11 +747,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[4]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -766,11 +766,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[4]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -785,11 +785,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[4]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -804,11 +804,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[4]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -823,11 +823,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[4]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -842,11 +842,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[4]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -861,11 +861,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[4]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -882,11 +882,11 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 #6th account click
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -901,11 +901,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[5]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -920,11 +920,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[5]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -939,11 +939,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[5]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -958,11 +958,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[5]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -977,11 +977,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[5]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -996,11 +996,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[5]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1015,11 +1015,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[5]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1034,11 +1034,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[5]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1055,11 +1055,11 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 #7th account click
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1074,11 +1074,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[6]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1093,11 +1093,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[6]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1112,11 +1112,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[6]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1131,11 +1131,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[6]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1150,11 +1150,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[6]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1169,11 +1169,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[6]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1188,11 +1188,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[6]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1207,11 +1207,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[6]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1228,11 +1228,11 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 #8th account click
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1247,11 +1247,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[7]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1266,11 +1266,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[7]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1285,11 +1285,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[7]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1304,11 +1304,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[7]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1323,11 +1323,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[7]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1342,11 +1342,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[7]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1361,11 +1361,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[7]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1380,11 +1380,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[7]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1401,11 +1401,11 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 #9th account click
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1420,11 +1420,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[8]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1439,11 +1439,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[8]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1458,11 +1458,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[8]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1477,11 +1477,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[8]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1496,11 +1496,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[8]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1515,11 +1515,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[8]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1534,11 +1534,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[8]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1553,11 +1553,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[8]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1574,11 +1574,11 @@ driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-
 
 #10th account click
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1593,11 +1593,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[9]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1612,11 +1612,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[9]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1631,11 +1631,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[9]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1650,11 +1650,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[9]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1669,11 +1669,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[9]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1688,11 +1688,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[9]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1707,11 +1707,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[9]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1726,11 +1726,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[9]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1745,11 +1745,11 @@ time.sleep(3)
 #click on nextt
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1764,11 +1764,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[2]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1783,11 +1783,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[3]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1802,11 +1802,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[4]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1821,11 +1821,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[5]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1840,11 +1840,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[6]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 #click on id
 driver.find_element_by_id("avatar-btn").click()
 
@@ -1856,11 +1856,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[7]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1875,11 +1875,11 @@ time.sleep(3)
 #click on next
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[8]/tp-yt-paper-icon-item/div').click()
 
-time.sleep(5)
+time.sleep(3)
 
 driver.find_element_by_class_name("yt-spec-button-shape-with-label ").click() #like button
 
-time.sleep(4)
+time.sleep(3)
 
 #click on id
 driver.find_element_by_id("avatar-btn").click()
@@ -1895,6 +1895,5 @@ time.sleep(3)
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[4]/ytd-multi-page-menu-renderer/div[3]/div[1]/ytd-account-section-list-renderer[10]/div[2]/ytd-account-item-section-renderer/div[2]/ytd-account-item-renderer[9]/tp-yt-paper-icon-item/div').click()
 
 time.sleep(10)
-
 
 
