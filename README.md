@@ -18,19 +18,23 @@ First, open Chrome file location and bypass the location restriction using an ex
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-Next, in the command prompt, navigate to the Chrome directory using the command cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
+in my case chrome location(use start in:) is
 
-Then,
+click window button and search cmd and enter
 
-use the command
+cd C:\Users\Hp\AppData\Local\Google\Chrome\Application (1st line in cmd)
 
-chrome.exe --remote-debugging-port=9222 --user-data-dir="enter your localhost path here"
+in line enter
 
-to open Chrome with remote debugging enabled. In my case, the command was
+chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
 
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
+Next, enter this command into the terminal, replacing "enter your localhost path here" with your localhost path:
 
-then new terminal in that folder and enter l.py (letter l not one)
+For example, in my case it is:
+
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost" (2nd line in cmd make sure you replace the localhost path)
+
+then again open new terminal in that folder enter l.py or double click on l.py
 
 After opening Chrome, paste the following two lines of code from the script into the command prompt and hit enter. This will open the YouTube video URL in Chrome, automatically like it with multiple accounts, and switch between accounts to hit the likes.
 
