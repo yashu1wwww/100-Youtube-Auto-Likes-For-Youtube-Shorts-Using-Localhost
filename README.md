@@ -18,8 +18,6 @@ First, open Chrome file location and bypass the location restriction using an ex
 
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
-in my case chrome location(use start in:) is
-
 click window button and search cmd and enter
 
 cd C:\Users\Hp\AppData\Local\Google\Chrome\Application (1st line in cmd)
